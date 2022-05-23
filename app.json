@@ -16,7 +16,7 @@
   ],
   "success_url": "",
   "website": "https://github.com/Tellybots",
-  "repository": "https://github.com/Tellybots",
+  "repository": "https://github.com/immortalking12/Uploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
